@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Form1.resources
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe.config
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.pdb
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.exe
+C:\Users\ASUS\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.pdb
